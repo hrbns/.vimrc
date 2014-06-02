@@ -9,6 +9,7 @@ Plugin 'git://github.com/joonty/myvim.git'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'derekwyatt/vim-scala'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
